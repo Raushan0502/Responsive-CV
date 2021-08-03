@@ -24,7 +24,7 @@ body{
     display: inline-block;
     margin: 0px 8px 8px 0px;
     font-weight: 100;
-    font-size: 0.9rem;
+    font-size: 1.5rem;
 }
 
 .horizontal-list li a {
@@ -48,7 +48,7 @@ body{
     
 
 #name-social-container{
-	margin-top: 20vh;
+	margin-top: 30vh;
 }
 
 #my-name {
